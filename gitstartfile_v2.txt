@@ -1,0 +1,16 @@
+This is a second try of the starting git exercise. 
+
+The first two steps was fine with add and commit. 
+
+Then I went to 3rd steps of removing some text of change.
+
+Then it stucks.
+
+So, I am trying a new file to add and commit again.
+
+
+Thsi is file number 2.
+
+Below will be text to be removed for part two of the exericse.
+
+Remove texts for part II.
