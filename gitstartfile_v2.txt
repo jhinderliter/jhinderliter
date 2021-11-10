@@ -13,3 +13,4 @@ Thsi is file number 2.
 
 Below will be text to be removed for part two of the exericse.
 
+OK, so far so good. Again, I find using the web online is much easier than using the one on my desktop using command. I practice several basic commands and it was working for a while until I got stuck on one error message keep saying the file cannot be updated. So, I actually delete the initial starter file and started this v2 file to do the exercise.
