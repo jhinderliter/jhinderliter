@@ -1,0 +1,5 @@
+This is the second file of trying to add onto git.
+
+This process is very interesting and watching the video of how to add a project into the Github is really helpful.
+
+Otherwise, I do not really know how this work inbetween the Github and the local file changes
