@@ -1,7 +1,11 @@
 This is the second file of trying to add onto git.
 
+OK, I removed this line before and now this following line does not make sense anymore. I was saying that I am not very familar with this app and watching the videos really help a lot of getting to use the Git.
+
 Otherwise, I do not really know how this work inbetween the Github and the local file changes
 
 Ok, let's added few more lines to this files for the next commit try.
 
 I find myself not picking up the habit of putting the -m stating the change to record what has been change. So, this will be confusing I am sure when there is actual project and several people needed to work on the same files from different times.
+
+Also, I was using the desktop version using command before but I got stuck and finding an error message that I could not move forward anymore. So, I switch to using the web and I found this much easier to use than the desktop one actually.
