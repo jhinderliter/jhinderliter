@@ -3,3 +3,7 @@ This is the second file of trying to add onto git.
 This process is very interesting and watching the video of how to add a project into the Github is really helpful.
 
 Otherwise, I do not really know how this work inbetween the Github and the local file changes
+
+Ok, let's added few more lines to this files for the next commit try.
+
+I find myself not picking up the habit of putting the -m stating the change to record what has been change. So, this will be confusing I am sure when there is actual project and several people needed to work on the same files from different times.
