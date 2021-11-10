@@ -13,4 +13,3 @@ Thsi is file number 2.
 
 Below will be text to be removed for part two of the exericse.
 
-Remove texts for part II.
